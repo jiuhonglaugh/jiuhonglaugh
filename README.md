@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 ![decription](https://img.shields.io/badge/tools-pycharm-green)
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 

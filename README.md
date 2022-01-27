@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
  -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuhonglaugh)](https://github.com/jiuhonglaugh/github-readme-stats)
+![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuhonglaugh)](https://github.com/jiuhonglaugh/github-readme-stats)
 
 
 ## Github Stats  

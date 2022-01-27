@@ -7,6 +7,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuhonglaugh)](https://github.com/jiuhonglaugh/github-readme-stats)
 
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jiuhonglaugh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -80,12 +86,3 @@
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

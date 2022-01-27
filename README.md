@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visitor Count](https://profile-counter.glitch.me/jiuhonglaugh/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuhonglaugh)](https://github.com/jiuhonglaugh/github-readme-stats)
+
+![jiuhonglaugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiuhonglaugh&show_icons=true&theme=tokyonight)
+
+![decription](https://img.shields.io/badge/tools-pycharm-green)
+
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+

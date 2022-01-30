@@ -1,12 +1,3 @@
-<!-- 
-![decription](https://img.shields.io/badge/tools-pycharm-green)
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
- -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuhonglaugh)](https://github.com/jiuhonglaugh/github-readme-stats) -->
-
-
 ## Top Languages 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiuhonglaugh" align="center" /></div>  
 
@@ -22,9 +13,9 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
+ 
+ 
+ 
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  

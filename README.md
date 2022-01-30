@@ -4,7 +4,13 @@
 
  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuhonglaugh)](https://github.com/jiuhonglaugh/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuhonglaugh)](https://github.com/jiuhonglaugh/github-readme-stats) -->
+
+
+## Most Used Languages 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiuhonglaugh" align="center" /></div>  
+
+<br/>
 
 
 ## Github Stats  
